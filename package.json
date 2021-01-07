@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "src/bot.js",
   "scripts": {
+    "start": "node src/bot.js",
     "dev": "nodemon"
   },
   "license": "MIT",
